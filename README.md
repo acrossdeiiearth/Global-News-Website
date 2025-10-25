@@ -24,9 +24,6 @@ This project showcases how to build a **live news feed web app** using API integ
 
 https://github.com/user-attachments/assets/0824d5b9-4b40-432d-ad23-7b296647e7e7
 
-
-*(Replace the link above with your YouTube or GitHub video link)*
-
 ---
 
 ## 🚀 Features
