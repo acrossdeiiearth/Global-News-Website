@@ -9,7 +9,7 @@ This project showcases how to build a **live news feed web app** using API integ
 
 ## 📰 Preview
 
-## 🖼️ Screenshot
+### 🖼️ Screenshot 1
 <img width="1346" height="676" alt="paint sc1" src="https://github.com/user-attachments/assets/0d02df90-5685-4d97-a761-a2ec7be7f7cc" />
 
 ---
@@ -19,10 +19,16 @@ This project showcases how to build a **live news feed web app** using API integ
 
 ---
 
-🎥 **Video Demo:**  
-👉 [🎬 Watch Demo]  
+## 🎥 Demo Video  
 
-https://github.com/user-attachments/assets/0824d5b9-4b40-432d-ad23-7b296647e7e7
+<details>
+  <summary>▶️ Click to View Demo</summary>
+
+  https://github.com/user-attachments/assets/0824d5b9-4b40-432d-ad23-7b296647e7e7  
+</details>
+
+The demo video showcases the **Global News Website** in action — fetching real-time news, displaying categorized articles, and providing a smooth browsing experience across devices.  
+It highlights the app’s **responsive layout**, **dynamic API integration**, and **modern JavaScript features**.
 
 ---
 
