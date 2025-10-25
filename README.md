@@ -12,22 +12,20 @@ This project showcases how to build a **live news feed web app** using API integ
 ## 🖼️ Screenshot
 <img width="1346" height="676" alt="paint sc1" src="https://github.com/user-attachments/assets/0d02df90-5685-4d97-a761-a2ec7be7f7cc" />
 
-
-
 ---
-
 
 ### 🖼️ Screenshot 2
 <img width="1339" height="673" alt="paint sc2" src="https://github.com/user-attachments/assets/ad53ef99-98f8-4cb7-8d31-ad44e77bcce4" />
 
+---
 
-🎥 **Video Demo:** *(Upload your demo video here once available)*  
-Once uploaded, replace the link below:  
-👉 [Watch Demo](#)
+🎥 **Video Demo:**  
+👉 [🎬 Watch Demo]  
+
+https://github.com/user-attachments/assets/0824d5b9-4b40-432d-ad23-7b296647e7e7
 
 
-https://github.com/user-attachments/assets/6a4e4b36-9935-4eca-aeb0-e41d33b87f8e
-
+*(Replace the link above with your YouTube or GitHub video link)*
 
 ---
 
@@ -55,16 +53,15 @@ https://github.com/user-attachments/assets/6a4e4b36-9935-4eca-aeb0-e41d33b87f8e
 
 ## 💡 How It Works
 
-1. Fetches live articles from the News API.
-2. Dynamically displays news by category.
-3. Allows searching and viewing details in real time.
+1. Fetches live articles from the News API.  
+2. Dynamically displays news by category.  
+3. Allows searching and viewing details in real time.  
 
 ---
 
 ## 🌍 Live Demo
 
-🔗  
-*(Replace with your actual GitHub Pages URL once deployed.)*
+🔗 *(Replace with your actual GitHub Pages URL once deployed.)*
 
 ---
 
