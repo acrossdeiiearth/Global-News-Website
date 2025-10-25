@@ -10,18 +10,24 @@ This project showcases how to build a **live news feed web app** using API integ
 ## 📰 Preview
 
 ## 🖼️ Screenshot
+<img width="1346" height="676" alt="paint sc1" src="https://github.com/user-attachments/assets/0d02df90-5685-4d97-a761-a2ec7be7f7cc" />
 
-![Global News Screenshot](./sc1.jfif)
+
 
 ---
 
 
 ### 🖼️ Screenshot 2
-![Screenshot 2](screenshot2.jfif)
+<img width="1339" height="673" alt="paint sc2" src="https://github.com/user-attachments/assets/ad53ef99-98f8-4cb7-8d31-ad44e77bcce4" />
+
 
 🎥 **Video Demo:** *(Upload your demo video here once available)*  
 Once uploaded, replace the link below:  
 👉 [Watch Demo](#)
+
+
+https://github.com/user-attachments/assets/6a4e4b36-9935-4eca-aeb0-e41d33b87f8e
+
 
 ---
 
